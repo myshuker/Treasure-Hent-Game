@@ -32,7 +32,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.12.0",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@fortawesome/react-fontawesome": "^0.1.7",
-    "@storybook/react": "^5.3.17",
+    "@storybook/react": "^8.0.4",
     "@storybook/theming": "^5.3.17",
     "app-root-path": "^2.2.1",
     "babel-polyfill": "^6.26.0",
@@ -70,7 +70,7 @@
     "react-leaflet": "^2.7.0",
     "react-qr-reader": "^2.2.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "^3.3.0",
+    "react-scripts": "^5.0.1",
     "react-social-login-buttons": "^3.0.0",
     "sass-loader": "^7.1.0",
     "serve-favicon": "^2.5.0",
@@ -95,7 +95,7 @@
     "nodemon": "^1.12.1",
     "poetic": "^1.2.6",
     "sequelize-cli": "^5.4.0",
-    "webpack-dev-server": "3.7.2"
+    "webpack-dev-server": "5.0.4"
   },
   "jest": {
     "moduleNameMapper": {
